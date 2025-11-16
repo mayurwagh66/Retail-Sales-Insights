@@ -1,0 +1,11 @@
+Retail Sales Insights | SQL & Power BI Analytics Dashboard
+Jun 2025 – Jun 2025
+
+• Built a comprehensive data analytics pipeline using SQL Server to analyze 9,000+ retail orders (₹8.24M sales) by creating a normalized database, performing data cleaning (NULL validation, type conversions), and executing EDA queries for segment-wise, region-wise, and category-wise performance analysis.
+
+• Developed an interactive Power BI dashboard with KPI visuals, dynamic filters, and drill-down capabilities that uncovered critical business insights including identifying the 20% discount profitability threshold where orders become unprofitable, enabling data-driven decision-making for marketing and pricing strategies.
+
+• Generated actionable business intelligence reports with 8 strategic recommendations (segment targeting, regional expansion, discount optimization) by analyzing monthly sales trends, top-performing products, cities, and sub-categories, leading to improved profitability focus on Home Office segment and high-margin categories.
+
+• Technologies used: SQL Server, T-SQL, Power BI, DAX (Data Analysis Expressions), EDA (Exploratory Data Analysis), Data Visualization, Business Intelligence, Data Cleaning, JOIN Operations, Aggregate Functions, Conditional Logic (CASE WHEN).
+

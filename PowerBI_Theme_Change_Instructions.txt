@@ -1,0 +1,52 @@
+📊 Power BI Theme Change Instructions for Mayur Wagh
+=====================================================
+
+To change the theme of your Power BI dashboard:
+
+1. **Close the Power BI file** (if currently open)
+   - Save any unsaved changes
+   - Close Power BI Desktop
+
+2. **Rename the .pbix file** (if not already renamed):
+   - The file should be renamed from:
+     "Retail_Sales_Insights_PowerBI_Priya_Dutta.pbix"
+   - To:
+     "Retail_Sales_Insights_PowerBI_Mayur_Wagh.pbix"
+
+3. **Open the Power BI file** in Power BI Desktop
+
+4. **Change the Theme:**
+   a. Go to the "View" tab in the ribbon
+   b. Click on "Themes" dropdown
+   c. Select one of the following options:
+      - "Browse for themes..." to import a custom theme file (.json)
+      - Or choose from built-in themes:
+        * Classic
+        * Modern
+        * High contrast
+        * Custom theme (if you have one)
+
+5. **Apply a Custom Theme (Optional):**
+   a. Click "View" → "Themes" → "Browse for themes..."
+   b. Select a .json theme file
+   c. The theme will be applied to all visuals in your report
+
+6. **Create a Custom Theme (Advanced):**
+   a. Go to "View" → "Themes" → "Customize current theme"
+   b. Modify colors, fonts, and visual styles
+   c. Click "Save" to save as a .json file for future use
+
+7. **Save your changes** after applying the new theme
+
+---
+
+Note: If you want a specific color scheme or theme, you can:
+- Download theme files from Power BI community
+- Create your own theme using the theme editor
+- Use the "Customize current theme" option to modify colors manually
+
+---
+
+For more information, visit:
+https://docs.microsoft.com/power-bi/create-reports/desktop-report-themes
+

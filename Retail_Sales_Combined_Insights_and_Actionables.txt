@@ -1,0 +1,100 @@
+🟣 Retail Sales Insights – Combined Business Insights
+(Data Exploration using SQL + Visualization using Power BI)
+Author: Mayur Wagh
+
+---
+
+🔹 Insights from SQL Queries
+
+1. Home Office customers contributed the highest revenue among all segments, indicating a strong individual buyer market compared to Corporate or Consumer segments.
+
+2. Kolkata, followed by Indore, Bhopal, Mumbai, Pune, Delhi, and Chandigarh, were the most profitable cities — making them key regions for sales expansion and customer retention.
+
+3. Home and Electronics were the most profitable categories. Among the four sub-categories — Furniture, Skincare, Shirts, and Mobile — all contributed significantly, with Furniture and Skincare being the top profit drivers.
+
+4. Orders offering discounts greater than 20% often led to negative profit, suggesting that aggressive discounting may reduce overall profitability.
+
+5. The top-selling products included high-revenue items such as Product 18 (₹2.13L), Product 7 (₹2.09L), and Product 26 (₹2.08L) — highlighting their strong market demand and sales impact.
+
+---
+
+🔹 Insights from Power BI Dashboard
+
+1. A total of 9,000+ orders generated ₹8.24M in sales and ₹898.18K in profit, with an average discount rate of 14.81% — reflecting an overall healthy margin despite discounting.
+
+2. Sales Distribution by Category shows that:
+   - Home (₹2.64M) contributed the highest revenue,
+   - Followed by Electronics (₹2.16M),
+   - Beauty (₹1.89M),
+   - Clothing (₹1.55M).
+
+3. Profit by Sub-Category confirms:
+   - Furniture is the highest profit generator,
+   - Followed by Skincare, Shirts, and Mobile,
+   - With Mobile showing relatively lower profitability despite good sales (suggesting low margins).
+
+4. Segment-wise Profitability reveals:
+   - Home Office segment remains the most profitable,
+   - Followed by Corporate and Consumer segments with balanced contributions.
+
+5. Sales by Region shows:
+   - East and West regions lead with ₹2.14M and ₹2.11M respectively,
+   - Followed by South (₹2.09M) and North (₹1.90M) — indicating strong nationwide sales presence.
+
+6. Monthly Sales Trend indicates:
+   - Steady performance across the year with peaks in March, July, and October,
+   - A noticeable decline in December, potentially due to year-end demand dip.
+
+---
+
+🔹 Recommended Business Actions
+
+1. 🧍‍♀️ Focus Marketing on Home Office Customers  
+→ This segment generates the highest revenue and profit.  
+✔ Action:
+- Launch targeted email and loyalty campaigns for Home Office buyers.
+- Create bundles or offers based on their purchase history.
+
+2. 🏙️ Strengthen Presence in High-Profit Cities  
+→ Cities like Kolkata, Indore, Bhopal, Mumbai, and Pune lead in profitability.  
+✔ Action:
+- Increase inventory availability and local marketing in these cities.
+- Assign more sales representatives or distributors in key zones.
+
+3. 🛋️ Expand High-Profit Categories  
+→ Home and Electronics categories are highly profitable, especially Furniture and Skincare.  
+✔ Action:
+- Introduce new products or variants in top sub-categories.
+- Promote these categories on the homepage or app banners.
+
+4. 📉 Re-evaluate High Discount Strategy  
+→ Discounts above 20% often lead to losses.  
+✔ Action:
+- Cap maximum discount at 15–20% depending on margin.
+- Encourage value-based offers like “Buy 2 Get 1” instead of flat % off.
+
+5. 🛒 Promote Best-Selling Products  
+→ Product 18, Product 7, and Product 26 are top revenue drivers.  
+✔ Action:
+- Highlight these products in upcoming campaigns.
+- Pair them with lower-performing SKUs to drive combo purchases.
+
+6. 🌍 Maintain Balanced Regional Strategy  
+→ East, West, South, and North all show strong and steady sales performance.  
+✔ Action:
+- Keep warehouse supply balanced across regions.
+- Track trends quarterly to reassign logistics dynamically.
+
+7. 📆 Leverage Peak Sales Months  
+→ March, July, and October show strong sales activity.  
+✔ Action:
+- Align promotional calendars with these periods.
+- Prepare marketing creatives, stock, and delivery for peak demand.
+
+8. 📊 Use Dashboard as a Live Business Tool  
+→ Power BI dashboard provides real-time, slicer-enabled insights.  
+✔ Action:
+- Share it with sales and planning teams for weekly meetings.
+- Use drill-downs and filters to support strategic decisions.
+
+---

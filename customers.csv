@@ -1,0 +1,201 @@
+customer_id,customer_name,segment,city,state,region
+C0001,Customer 1,Consumer,Delhi,MH,East
+C0002,Customer 2,Consumer,Indore,MH,East
+C0003,Customer 3,Home Office,Kolkata,MH,North
+C0004,Customer 4,Consumer,Indore,WB,East
+C0005,Customer 5,Consumer,Mumbai,WB,North
+C0006,Customer 6,Corporate,Indore,PB,East
+C0007,Customer 7,Consumer,Mumbai,WB,West
+C0008,Customer 8,Consumer,Delhi,DL,East
+C0009,Customer 9,Home Office,Mumbai,PB,East
+C0010,Customer 10,Corporate,Kolkata,WB,South
+C0011,Customer 11,Consumer,Indore,WB,North
+C0012,Customer 12,Corporate,Kolkata,MP,North
+C0013,Customer 13,Consumer,Indore,MP,North
+C0014,Customer 14,Corporate,Chandigarh,PB,West
+C0015,Customer 15,Home Office,Indore,MH,North
+C0016,Customer 16,Corporate,Pune,WB,East
+C0017,Customer 17,Consumer,Pune,DL,West
+C0018,Customer 18,Corporate,Pune,MP,South
+C0019,Customer 19,Home Office,Delhi,PB,East
+C0020,Customer 20,Corporate,Pune,MH,East
+C0021,Customer 21,Consumer,Mumbai,DL,South
+C0022,Customer 22,Corporate,Kolkata,MH,East
+C0023,Customer 23,Corporate,Indore,WB,West
+C0024,Customer 24,Home Office,Kolkata,MP,South
+C0025,Customer 25,Corporate,Pune,MH,North
+C0026,Customer 26,Home Office,Indore,PB,North
+C0027,Customer 27,Consumer,Mumbai,WB,South
+C0028,Customer 28,Consumer,Delhi,WB,North
+C0029,Customer 29,Consumer,Bhopal,MP,South
+C0030,Customer 30,Corporate,Indore,PB,South
+C0031,Customer 31,Home Office,Chandigarh,PB,East
+C0032,Customer 32,Consumer,Mumbai,DL,East
+C0033,Customer 33,Consumer,Mumbai,WB,East
+C0034,Customer 34,Consumer,Chandigarh,DL,South
+C0035,Customer 35,Consumer,Delhi,WB,South
+C0036,Customer 36,Consumer,Indore,PB,West
+C0037,Customer 37,Home Office,Chandigarh,DL,West
+C0038,Customer 38,Corporate,Indore,MP,North
+C0039,Customer 39,Consumer,Delhi,PB,South
+C0040,Customer 40,Corporate,Bhopal,PB,West
+C0041,Customer 41,Home Office,Chandigarh,DL,West
+C0042,Customer 42,Home Office,Bhopal,PB,South
+C0043,Customer 43,Home Office,Kolkata,DL,West
+C0044,Customer 44,Consumer,Mumbai,DL,North
+C0045,Customer 45,Home Office,Kolkata,MP,South
+C0046,Customer 46,Corporate,Mumbai,MH,South
+C0047,Customer 47,Corporate,Pune,WB,West
+C0048,Customer 48,Consumer,Bhopal,MH,South
+C0049,Customer 49,Consumer,Pune,MP,North
+C0050,Customer 50,Corporate,Bhopal,WB,East
+C0051,Customer 51,Consumer,Pune,WB,South
+C0052,Customer 52,Home Office,Pune,MP,West
+C0053,Customer 53,Consumer,Bhopal,MH,West
+C0054,Customer 54,Consumer,Delhi,DL,East
+C0055,Customer 55,Home Office,Bhopal,DL,West
+C0056,Customer 56,Corporate,Chandigarh,WB,South
+C0057,Customer 57,Home Office,Kolkata,MH,East
+C0058,Customer 58,Consumer,Kolkata,DL,South
+C0059,Customer 59,Home Office,Pune,MH,West
+C0060,Customer 60,Consumer,Kolkata,PB,East
+C0061,Customer 61,Corporate,Kolkata,PB,South
+C0062,Customer 62,Home Office,Pune,MP,West
+C0063,Customer 63,Home Office,Delhi,MP,West
+C0064,Customer 64,Home Office,Bhopal,MH,North
+C0065,Customer 65,Consumer,Kolkata,MP,West
+C0066,Customer 66,Home Office,Indore,PB,East
+C0067,Customer 67,Corporate,Mumbai,WB,West
+C0068,Customer 68,Corporate,Indore,WB,East
+C0069,Customer 69,Home Office,Mumbai,MP,South
+C0070,Customer 70,Corporate,Pune,MH,South
+C0071,Customer 71,Home Office,Bhopal,MH,South
+C0072,Customer 72,Home Office,Pune,MP,North
+C0073,Customer 73,Consumer,Kolkata,MP,West
+C0074,Customer 74,Consumer,Chandigarh,PB,East
+C0075,Customer 75,Corporate,Bhopal,DL,East
+C0076,Customer 76,Corporate,Pune,MP,East
+C0077,Customer 77,Home Office,Chandigarh,MH,West
+C0078,Customer 78,Corporate,Pune,MP,East
+C0079,Customer 79,Home Office,Indore,PB,East
+C0080,Customer 80,Corporate,Kolkata,MH,East
+C0081,Customer 81,Home Office,Kolkata,DL,East
+C0082,Customer 82,Home Office,Bhopal,MH,South
+C0083,Customer 83,Home Office,Pune,MP,East
+C0084,Customer 84,Corporate,Delhi,MP,North
+C0085,Customer 85,Consumer,Indore,MH,East
+C0086,Customer 86,Corporate,Pune,PB,South
+C0087,Customer 87,Home Office,Bhopal,MH,East
+C0088,Customer 88,Home Office,Indore,MH,West
+C0089,Customer 89,Home Office,Delhi,MH,South
+C0090,Customer 90,Consumer,Pune,MH,West
+C0091,Customer 91,Consumer,Mumbai,MH,South
+C0092,Customer 92,Corporate,Delhi,WB,East
+C0093,Customer 93,Home Office,Mumbai,MP,North
+C0094,Customer 94,Corporate,Indore,PB,South
+C0095,Customer 95,Corporate,Kolkata,PB,West
+C0096,Customer 96,Corporate,Kolkata,WB,North
+C0097,Customer 97,Home Office,Indore,WB,North
+C0098,Customer 98,Corporate,Chandigarh,WB,West
+C0099,Customer 99,Consumer,Chandigarh,WB,South
+C0100,Customer 100,Consumer,Bhopal,MP,East
+C0101,Customer 101,Consumer,Mumbai,DL,West
+C0102,Customer 102,Home Office,Bhopal,MP,North
+C0103,Customer 103,Corporate,Pune,DL,East
+C0104,Customer 104,Home Office,Kolkata,MH,South
+C0105,Customer 105,Corporate,Pune,PB,East
+C0106,Customer 106,Corporate,Kolkata,DL,West
+C0107,Customer 107,Home Office,Mumbai,WB,East
+C0108,Customer 108,Corporate,Indore,PB,North
+C0109,Customer 109,Home Office,Bhopal,MP,East
+C0110,Customer 110,Corporate,Bhopal,WB,West
+C0111,Customer 111,Home Office,Kolkata,DL,North
+C0112,Customer 112,Corporate,Indore,MP,North
+C0113,Customer 113,Home Office,Indore,MP,South
+C0114,Customer 114,Corporate,Pune,PB,North
+C0115,Customer 115,Consumer,Mumbai,MP,South
+C0116,Customer 116,Corporate,Kolkata,DL,North
+C0117,Customer 117,Home Office,Kolkata,WB,West
+C0118,Customer 118,Home Office,Chandigarh,WB,West
+C0119,Customer 119,Home Office,Bhopal,PB,South
+C0120,Customer 120,Home Office,Bhopal,WB,East
+C0121,Customer 121,Home Office,Indore,DL,South
+C0122,Customer 122,Corporate,Mumbai,WB,South
+C0123,Customer 123,Home Office,Indore,DL,North
+C0124,Customer 124,Consumer,Indore,WB,South
+C0125,Customer 125,Consumer,Delhi,DL,West
+C0126,Customer 126,Corporate,Kolkata,DL,East
+C0127,Customer 127,Consumer,Mumbai,MH,West
+C0128,Customer 128,Home Office,Pune,MH,West
+C0129,Customer 129,Consumer,Bhopal,MH,North
+C0130,Customer 130,Home Office,Kolkata,DL,South
+C0131,Customer 131,Corporate,Indore,MP,South
+C0132,Customer 132,Consumer,Pune,MH,East
+C0133,Customer 133,Consumer,Mumbai,MP,East
+C0134,Customer 134,Consumer,Delhi,WB,West
+C0135,Customer 135,Corporate,Delhi,DL,East
+C0136,Customer 136,Consumer,Chandigarh,MH,East
+C0137,Customer 137,Consumer,Indore,PB,West
+C0138,Customer 138,Corporate,Delhi,MP,West
+C0139,Customer 139,Corporate,Kolkata,WB,East
+C0140,Customer 140,Corporate,Chandigarh,MH,North
+C0141,Customer 141,Consumer,Bhopal,MH,East
+C0142,Customer 142,Consumer,Mumbai,MP,North
+C0143,Customer 143,Consumer,Indore,WB,North
+C0144,Customer 144,Consumer,Delhi,MP,South
+C0145,Customer 145,Home Office,Chandigarh,MP,West
+C0146,Customer 146,Consumer,Bhopal,MH,South
+C0147,Customer 147,Home Office,Mumbai,MP,West
+C0148,Customer 148,Corporate,Mumbai,MH,North
+C0149,Customer 149,Corporate,Kolkata,WB,West
+C0150,Customer 150,Consumer,Bhopal,MP,East
+C0151,Customer 151,Home Office,Kolkata,DL,North
+C0152,Customer 152,Home Office,Delhi,DL,North
+C0153,Customer 153,Consumer,Delhi,PB,West
+C0154,Customer 154,Consumer,Delhi,DL,South
+C0155,Customer 155,Corporate,Kolkata,MP,North
+C0156,Customer 156,Home Office,Indore,PB,South
+C0157,Customer 157,Corporate,Mumbai,MH,West
+C0158,Customer 158,Corporate,Delhi,DL,West
+C0159,Customer 159,Home Office,Kolkata,PB,West
+C0160,Customer 160,Consumer,Pune,WB,South
+C0161,Customer 161,Corporate,Bhopal,DL,North
+C0162,Customer 162,Consumer,Delhi,PB,West
+C0163,Customer 163,Corporate,Delhi,MP,South
+C0164,Customer 164,Home Office,Chandigarh,MH,West
+C0165,Customer 165,Home Office,Pune,MP,West
+C0166,Customer 166,Home Office,Delhi,MH,South
+C0167,Customer 167,Corporate,Mumbai,WB,West
+C0168,Customer 168,Corporate,Delhi,MP,North
+C0169,Customer 169,Corporate,Bhopal,MP,West
+C0170,Customer 170,Home Office,Kolkata,MH,North
+C0171,Customer 171,Corporate,Chandigarh,DL,North
+C0172,Customer 172,Home Office,Mumbai,MH,North
+C0173,Customer 173,Home Office,Kolkata,MP,South
+C0174,Customer 174,Corporate,Mumbai,PB,South
+C0175,Customer 175,Consumer,Chandigarh,DL,West
+C0176,Customer 176,Consumer,Chandigarh,WB,North
+C0177,Customer 177,Home Office,Kolkata,MP,South
+C0178,Customer 178,Corporate,Chandigarh,DL,West
+C0179,Customer 179,Corporate,Indore,MP,South
+C0180,Customer 180,Consumer,Indore,PB,South
+C0181,Customer 181,Home Office,Mumbai,MP,East
+C0182,Customer 182,Home Office,Kolkata,MP,South
+C0183,Customer 183,Corporate,Kolkata,PB,West
+C0184,Customer 184,Corporate,Bhopal,MP,West
+C0185,Customer 185,Consumer,Pune,WB,South
+C0186,Customer 186,Consumer,Kolkata,MH,East
+C0187,Customer 187,Corporate,Indore,MP,West
+C0188,Customer 188,Consumer,Mumbai,WB,South
+C0189,Customer 189,Consumer,Chandigarh,PB,West
+C0190,Customer 190,Corporate,Bhopal,WB,East
+C0191,Customer 191,Corporate,Pune,MP,East
+C0192,Customer 192,Consumer,Delhi,DL,West
+C0193,Customer 193,Corporate,Delhi,MP,East
+C0194,Customer 194,Home Office,Bhopal,MH,North
+C0195,Customer 195,Home Office,Chandigarh,DL,West
+C0196,Customer 196,Home Office,Delhi,DL,West
+C0197,Customer 197,Consumer,Bhopal,MP,East
+C0198,Customer 198,Corporate,Bhopal,DL,East
+C0199,Customer 199,Home Office,Mumbai,MH,East
+C0200,Customer 200,Corporate,Kolkata,MP,East
