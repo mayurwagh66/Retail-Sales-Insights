@@ -75,23 +75,4 @@ This project combines **SQL for data preparation and exploratory analysis** with
 - **Retail_Sales_Insights PowerBI_MayurWagh.pdf** → Dashboard PDF  
 - **README.md** → Project documentation  
 
----
-
-## 👩‍💻 Author
-**Mayur Wagh**  
-🎓 Executive Certification in Data Science with AI Specialization (IIT Guwahati via AnalytixLabs)
-🎓 MBA in Marketing & Finance
-📍 Betul, M.P. | Open to Remote Work & Relocation
-🔗 LinkedIn Profile 
-
----
-
-📅 Project Timeline: June 2025
-
----
-
-## 🔒 License  
-This project is licensed under a **custom proprietary license**. Please refer to the [LICENSE](./LICENSE) file for detailed terms and usage restrictions.
-
----
 
